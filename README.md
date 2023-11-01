@@ -1,33 +1,33 @@
 # Winstreak-Retimer
  ### A python program inspired by SP's retiming tool, that allows the user to retime multiple runs at once
  
-![image](https://github.com/Mishapolk/Winstreak-Retimer/assets/142851828/ab956085-468f-4fe7-a970-bd6728fa52a9)
+![image](https://github.com/Mishapolk/Winstreak-Retimer/assets/142851828/d79fa7ba-f10d-4a6b-afaf-f605c3864149)
 
 ## Step-by-step tutorial on how to install:
 
 **1. Click:**
 
-![image](https://github.com/Mishapolk/Winstreak-Retimer/assets/142851828/592db3f3-c757-4673-8e48-3e0892224cf8)
+![image](https://github.com/Mishapolk/Winstreak-Retimer/assets/142851828/02a3e082-59f1-4fc9-90a0-0fa7dd127b88)
 
 **2. Click:**
 
-![image](https://github.com/Mishapolk/Winstreak-Retimer/assets/142851828/68fbe5f0-7d2c-492e-bb68-b15c5fb8b065)
+![image](https://github.com/Mishapolk/Winstreak-Retimer/assets/142851828/7e9d8fae-5540-4e89-98a3-e17ec32d7d32)
 
 **3. Open:**
 
-![image](https://github.com/Mishapolk/Winstreak-Retimer/assets/142851828/0251dc84-1a83-4f25-9bce-4c56149d7d66)
+![image](https://github.com/Mishapolk/Winstreak-Retimer/assets/142851828/fba53240-1660-4e18-a360-62ea99e9bde8)
 
 **4. Open:**
 
-![image](https://github.com/Mishapolk/Winstreak-Retimer/assets/142851828/8dd7d874-8d73-49bf-84c6-77c3592fd2ac)
+![image](https://github.com/Mishapolk/Winstreak-Retimer/assets/142851828/66094d97-3196-4f47-8e2b-1be91c194198)
 
 **5. Open:**
 
-![image](https://github.com/Mishapolk/Winstreak-Retimer/assets/142851828/f36d53ae-dfbf-4b74-b438-92d4cf95936b)
+![image](https://github.com/Mishapolk/Winstreak-Retimer/assets/142851828/b90b67fa-24cd-4d0c-92b1-eb974a404581)
 
 **6. Run:**
 
-![image](https://github.com/Mishapolk/Winstreak-Retimer/assets/142851828/b6e60343-a10a-4fee-8f5f-ca64a43caa78)
+![image](https://github.com/Mishapolk/Winstreak-Retimer/assets/142851828/2ba6332e-c6ae-4228-8d88-3988f43ccd42)
 
 ## **Credit:**
 
