@@ -26,8 +26,8 @@ class TimeCalculatorApp:
         self.middle_canvas.bind("<Configure>", self.configure_scroll_region)
 
         total_height = 800
-        header_height = 50  # Fixed header height
-        footer_height = 100  # Increased footer height
+        header_height = 50  
+        footer_height = 100 
         middle_height = total_height - header_height - footer_height
 
         self.top_label = tk.Label(self.header_frame, text="YouTube Debug Time Calculator", font=("Arial", 16))
@@ -53,7 +53,7 @@ class TimeCalculatorApp:
         self.caution_label = tk.Label(self.footer_frame, text="", font=("Arial", 12), fg="red")
         self.caution_label.grid(row=2, column=0, columnspan=2, padx=10, pady=5, sticky="w")
 
-        self.root.wm_attributes("-topmost", 1)  # Set the window to stay on top
+        self.root.wm_attributes("-topmost", 1)  
 
     def configure_scroll_region(self, event):
         self.middle_canvas.update_idletasks()
@@ -103,15 +103,15 @@ class TimeCalculatorApp:
                 self.segments.remove(segment_tuple)
                 segment_frame.destroy()
                 self.update_total_time()
-                # Reassign segment numbers after deletion
+                
                 for j, (_, _, frame, _) in enumerate(self.segments):
                     frame.config(text=f"{j + 1}.")
                 break
 
     def add_segment(self):
-        prev_segment_frame = self.segments[-1][2]  # Get the frame of the last segment
+        prev_segment_frame = self.segments[-1][2]  
         self.create_segment()
-        prev_segment_frame.tkraise()  # Raise the previous segment's frame to the front
+        prev_segment_frame.tkraise()  
         self.update_total_time()
 
     def parse_vct_value(self, debug_info, frame_rate):
@@ -167,5 +167,5 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = TimeCalculatorApp(root)
     root.geometry("400x800")
-    root.wm_attributes("-topmost", 1)  # Set the window to stay on top
+    root.wm_attributes("-topmost", 1) 
     root.mainloop()
